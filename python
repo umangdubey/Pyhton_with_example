@@ -1,0 +1,34 @@
+
+
+Size of object 
+depend upon the number of variable we have 
+
+
+sixe to object allocated by constructor 
+
+
+
+self in python is used to referning the variable.
+
+
+
+
+first constructor of child class is called then constructor of super class is called 
+
+
+
+METHOD RESULUTION ORDER 
+
+it always left to right 
+
+
+calling super class we used super method and calling done in way of MRO 
+
+
+POLYMORPHISM in python :
+
+
+1.duck tying
+2.operator Overloading
+3.Method Overloading 
+4.Method overriding
